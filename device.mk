@@ -21,7 +21,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     bootctrl.pineapple
 
-PRODUCT_STATIC_BOOT_CONTROL_HAL := \
+PRODUCT_PACKAGES := \
     bootctrl.pineapple \
     libgptutils \
     libz \
