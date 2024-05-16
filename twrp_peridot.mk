@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/xiaomi/peridot/device.mk)
 
 PRODUCT_DEVICE := peridot
-PRODUCT_NAME := omni_peridot
+PRODUCT_NAME := twrp_peridot
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := 24069RA21C
 PRODUCT_MANUFACTURER := xiaomi
