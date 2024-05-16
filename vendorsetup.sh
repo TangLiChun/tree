@@ -5,6 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_peridot-user
-add_lunch_combo omni_peridot-userdebug
-add_lunch_combo omni_peridot-eng
+add_lunch_combo twrp_peridot-eng
